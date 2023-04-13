@@ -274,7 +274,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("C:/Users/Admin/Downloads/MyResume/MyResume/prifile5.jpg") top right no-repeat;
+  background: url("prifile5.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -806,27 +806,27 @@ section {
 }
 
 .images1{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile12.jpg.");
+  background-image: url("profile12.jpg.");
   background-size: cover;
 }
 .images2{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile13.jpg.");
+  background-image: url("profile13.jpg.");
   background-size: cover;
 }
 .images3{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile20.jpg.");
+  background-image: url("profile20.jpg.");
   background-size: cover;
 }
 .images4{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile15.jpg.");
+  background-image: url("profile15.jpg.");
   background-size: cover;
 }
 .images5{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile23.jpg.");
+  background-image: url("profile23.jpg.");
   background-size: cover;
 }
 .images6{
-  background-image: url("C:/Users/Admin/Downloads/MyResume/MyResume/profile17.jpg.");
+  background-image: url("profile17.jpg.");
   background-size: cover;
 }
 
